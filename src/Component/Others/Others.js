@@ -5,7 +5,7 @@ const Others = () => {
            <h2 className="mb-5">Who We Are?</h2>
            <div className="row">
                <div className="col-md-6">
-                    <img style={{width:'100%'}}  src='http://wordpressboss.com/opb/vtravel-demo/assets/images/about.png'alt="" />
+                    <img style={{width:'100%'}}  src='https://i.ibb.co/h14nX6q/about.jpg'alt="" />
                </div>
                <div className="col-md-6">
                    <h3>We Are Travel Experts</h3>
