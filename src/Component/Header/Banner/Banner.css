@@ -1,0 +1,13 @@
+.carousel-item img{
+    height: 550px;
+}
+.carousel-caption {
+    background-color: #0d6efd;
+    
+}
+.carousel-caption h1{
+    font-size: 60px; 
+}
+.carousel-caption p{
+    font-size: 30px;
+}

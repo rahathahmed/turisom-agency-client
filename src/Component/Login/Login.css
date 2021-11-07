@@ -1,0 +1,12 @@
+.google-btn{
+    color: #fff;
+    background-color: #0d6efd;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+}
+.google-btn i{
+    background-color: #fff;
+    color: rgb(199, 14, 23);
+    padding: 5px;
+}
